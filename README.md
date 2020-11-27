@@ -12,7 +12,7 @@ Excerpt from Summit: "Big! Small! Fast! Slow! From the formation of a galaxy to 
 I am going to be programming a model of the processes that define life using microscopic animals as the subject view.  My scale for this model will be 1:1 for time while the speed or distance an organism makes will be scaled from 0.432 microns(actual distance covered in real life on average in 1 second by 1 microorganism) a second to 2.16 microns(actual distance covered in 5 seconds) a second (5:1).
 
 #### Resources I wil be using:
-* [http://www.swimbots.com/genepool/](http://www.swimbots.com/genepool/)
+* [http://www.swimbots.com/genepool/](http://www.swimbots.com/genepool/) This project will be based **HEAVILY** on this site's example.
 * [https://training.seer.cancer.gov/anatomy/body/functions.html](https://training.seer.cancer.gov/anatomy/body/functions.html#:~:text=The%20basic%20processes%20of%20life,of%20these%20processes%20are%20interrelated.)
 * [https://en.wikipedia.org/wiki/Life](https://en.wikipedia.org/wiki/Life)
 * [https://www.khanacademy.org/science](https://www.khanacademy.org/science/in-in-class-10-biology/in-in-life-processes/in-in-what-are-lifes-processes/v/intro-to-life-processes-life-processes-biology-khan-academy)
